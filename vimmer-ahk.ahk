@@ -17,11 +17,8 @@ IME_SET(SetSts, WinTitle="A")    {
 }
 
 $Esc::
+$^[::
     Send,{Esc}
     IME_SET(0)
 Return
 
-$^[::
-    Send,^[
-    IME_SET(0)
-Return
