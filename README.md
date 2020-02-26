@@ -1,17 +1,16 @@
 vimmer-ahk
 ===
 
-WindowsでVimを使う日本人向けのツールです。
-Esc, Ctrl+[ キー押下時にIMEをオフにします。
+For vimmer using windows.
+This turns off IME when press Esc key or Ctrl+\[ key.
 
-[AutoHotkey](https://www.autohotkey.com/) を使って作成しています。
+This is made with [AutoHotkey](https://www.autohotkey.com/).
 
-## 使い方
+## Usage
 
-[Releases](https://github.com/koirand/vimmer-ahk/releases) ページから`vimmer-akh.exe`をダウンロードしてください。
-ダブルクリックで実行するとプログラムが常駐します。
+Download `vimmer-akh.exe` from [Releases](https://github.com/koirand/vimmer-ahk/releases) and run.
 
-exeファイルを以下のフォルダに配置しておくと、Windows起動時に自動起動します。
+To auto star up, put that binary in following folder.
 
 ```
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
