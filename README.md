@@ -10,7 +10,7 @@ This is made with [AutoHotkey](https://www.autohotkey.com/).
 
 Download `vimmer-akh.exe` from [Releases](https://github.com/koirand/vimmer-ahk/releases) and run.
 
-To auto star up, put that binary in following folder.
+To auto start up, put that binary in following folder.
 
 ```
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
